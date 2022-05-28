@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/java/controller/web/HomeController.java=UTF-8
+encoding//src/main/java/com/java/controlller/admin/api/NewAPI.java=UTF-8
+encoding//src/main/java/com/java/dao/impl/CategoryDAO.java=UTF-8
+encoding//src/main/java/com/java/dao/impl/NewDAO.java=UTF-8
+encoding//src/main/java/com/java/mapper/CategoryMapper.java=UTF-8
+encoding//src/main/java/com/java/service/impl/CategoryService.java=UTF-8
+encoding//src/main/java/com/java/utils/HttpUtil.java=UTF-8
+encoding/<project>=UTF-8
